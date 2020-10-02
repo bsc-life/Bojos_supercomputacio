@@ -5,6 +5,9 @@
 ### Links
 
  - [Slides](https://drive.google.com/file/d/17Kdr5YMXj4B4koejy1ORPODLC_94Ah5X/view?usp=sharing)
+ - Actividades:
+   - [*Identificar origen del coronavirus*](https://docs.google.com/document/d/1LSZZfXvN0wD0eKuNfwwb7MGIlVJOFT13bw08V44BfWs/edit?usp=sharing)
+   - [*En busca de una vacuna contra el SARS-CoV-2.*](https://docs.google.com/document/d/1PNOXQPVEHgXNo0RuJcTFX4w6P0_ZHuvNmNkJqcGOXKY/edit)
  - [Quizz](https://audience.ahaslides.com/5apzre224j)
 
 ### Flexible time table
