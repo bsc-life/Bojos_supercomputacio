@@ -1,14 +1,12 @@
 # Bojos per la Supercomputacio!
 
-![](doc/dna-1903875_1280.jpg)
-
 ## Introducció a la genòmica
 
-## Slides
+### Slides
 
 [link to slides](https://drive.google.com/file/d/17Kdr5YMXj4B4koejy1ORPODLC_94Ah5X/view?usp=sharing)
 
-## Time table
+### Time table
 
 | Time | |
 |---|---|
