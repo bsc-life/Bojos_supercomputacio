@@ -2,9 +2,10 @@
 
 ## Introducció a la genòmica
 
-### Slides
+### Links
 
-[link to slides](https://drive.google.com/file/d/17Kdr5YMXj4B4koejy1ORPODLC_94Ah5X/view?usp=sharing)
+ - [Slides](https://drive.google.com/file/d/17Kdr5YMXj4B4koejy1ORPODLC_94Ah5X/view?usp=sharing)
+ - [Quizz](https://audience.ahaslides.com/5apzre224j)
 
 ### Time table
 
