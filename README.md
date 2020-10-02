@@ -11,13 +11,13 @@
 
 | Time | |
 |---|---|
-| 9:30  | Presentación-puesta a punto: Vicky |
-| 10:00 | Teoría ADN y proteina: Mónica |
-| 10:45 | Teoría sobre traducción: Mónica |
-| 11:00 | Primera parte ¿Cuál es el origen del nuevo coronavirus?: François |
+| 9:30  | Presentación-puesta a punto |
+| 10:00 | Teoría ADN y proteina |
+| 10:45 | Actividad *Traducció manual* |
+| 11:00 | Primera parte ¿Cuál es el origen del nuevo coronavirus? |
 | 11:30 | Actividad *Identificar origen del coronavirus* |
 |       | -------- Break -------- |
-| 12:00 | Segunda parte ¿Puede la supercomputación acelerar la carrera para encontrar una vacuna frente al COVID-19? Vicky |
+| 12:00 | Segunda parte ¿Puede la supercomputación acelerar la carrera para encontrar una vacuna frente al COVID-19? |
 | 12:45 | Actividad *En busca de una vacuna contra el SARS-CoV-2.* |
 | 13:30 | Wrapup, Quiz, y extensos agradecimientos a los ponentes  |
 | 14:00 | FIN de la clase |
