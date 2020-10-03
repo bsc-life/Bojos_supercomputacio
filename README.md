@@ -16,11 +16,11 @@
 |---|---|
 | 9:30  | Presentación-puesta a punto |
 | 10:00 | Teoría ADN y proteina |
-| 10:45 | Actividad *Traducció manual* |
-| 11:00 | Primera parte ¿Cuál es el origen del nuevo coronavirus? |
-| 11:30 | Actividad *Identificar origen del coronavirus* |
-| 12:00 | :coffee: :wine_glass: :beers:  --- Break ---- :cocktail: :lollipop: :croissant: |
-| 12:15 | Segunda parte ¿Puede la supercomputación acelerar la carrera para encontrar una vacuna frente al COVID-19? |
-| 12:45 | Actividad *En busca de una vacuna contra el SARS-CoV-2.* |
+| 10:15 | Actividad *Traducció manual* |
+| 10:30 | Primera parte ¿Cuál es el origen del nuevo coronavirus? |
+| 10:45 | Actividad *Identificar origen del coronavirus* |
+| 11:30 | :coffee: :wine_glass: :beers:  --- Break ---- :cocktail: :lollipop: :croissant: |
+| 12:00 | Segunda parte ¿Puede la supercomputación acelerar la carrera para encontrar una vacuna frente al COVID-19? |
+| 12:30 | Actividad *En busca de una vacuna contra el SARS-CoV-2.* |
 | 13:30 | Wrapup, Quiz, y extensos agradecimientos a los ponentes  |
 | 14:00 | FIN de la clase |
