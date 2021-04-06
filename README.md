@@ -14,7 +14,7 @@ Des de el departamento de Life Sciences, la **sesión 10 de Introducción a la g
 
 ### Links
 
- - [Slides](https://docs.google.com/presentation/d/1dWCz-LsHlLcXPBDuFqrAlLA2OV7omOvr897h5pc-91I/edit#slide=id.gc21052f137_1_835)
+ - [Slides 2021](https://docs.google.com/presentation/d/1dWCz-LsHlLcXPBDuFqrAlLA2OV7omOvr897h5pc-91I/edit#slide=id.gc21052f137_1_835)
 
 ### Calendario
 
