@@ -1,4 +1,4 @@
-# Bojos per la Supercomputacio!
+# Bojos per la Supercomputació!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsc-life/Bojos_supercomputacio/master?urlpath=lab)
 
@@ -39,6 +39,6 @@ https://rchaeologist.shinyapps.io/randomforest_skcm/
 |       |     Teoría V600E. Maria (unos 10 minutos) |
 | 12:30 | Kahoot |
 | 12:45 | Actividad 6. Práctica Vicky |
-| 13:45 | Últimas slides. Mónica |
+| 13:45 | ¿Por qué necesitamos superordenadores?. Mónica |
 | 14:00 | FIN de la clase |
 
