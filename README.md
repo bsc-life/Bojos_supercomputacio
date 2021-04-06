@@ -1,17 +1,34 @@
+# Bojos per la Supercomputacio!
+
+## Introducció a la genòmica (Parte 1)
 Des de el departamento de Life Sciences, la **sesión 10 de Introducción a la genómica** del **módulo 7 sobre Biología computacional** va a cargo de **Victoria Ruiz, Uciel Chorostecki, Olfat Khannous y Mónica Cabrera**, junto con la coordinación de Sara Ibáñez.
 
-:pushpin: Dia: Sábado 10 de abril
-:pushpin: Horario: 9.30h a 14h
-:pushpin: Lugar: Sesión online
-:pushpin: Idioma: Catalán/Castellano
+:pushpin: Dia: Sábado 10 de abril 
+
+:pushpin: Horario: 9.30h a 14h 
+
+:pushpin: Lugar: Sesión online 
+
+:pushpin: Idioma: Catalán/Castellano 
 
 
+### Links
 
-:computer:
+ - [Slides](https://docs.google.com/presentation/d/1dWCz-LsHlLcXPBDuFqrAlLA2OV7omOvr897h5pc-91I/edit#slide=id.gc21052f137_1_835)
 
-:arrow_right:
+### Schedule
 
-
-:point_right:
-
-:octocat:
+| Time | |
+|---|---|
+| 9:30  | Presentación |
+| 9:45  | **Primera parte**: Conceptos clave sobre genómica con Mónica Cabrera | 
+| 10:15 | Actividad 1 *Traducción manual* |
+| 10:30 | **Segunda parte**: Del genoma al filoma con Olfat Khannous|
+| 11:00 | 10 min BREAK :coffee: :croissant:|
+| 11:15 | **Tercera parte**: Conceptos sobre el coronavirus con Victoria Ruiz |
+| 11:45 | Actividad 2 *Identificar el origen del coronavirus* |
+| 12:00 | 10 min BREAK :coffee: :croissant:|
+| 12:15 | **Cuarta parte**: Comandos claves en BASH con Uciel Chorostecki |
+| 12:30 | Actividad 3 *Bash aplicado al análisis de SARS-CoV2 * |
+| 13:30 | DEBATE: ¿Para què necesitamos los biólogos los superodenadores? :computer: |
+| 14:00 | FIN de la clase |
