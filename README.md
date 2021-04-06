@@ -1,24 +1,24 @@
-# Bojos per la Supercomputacio!
+# Bojos per la Supercomputació
 
 ## Introducció a la genòmica (Parte 1)
-Des de el departamento de Life Sciences, la **sesión 10 de Introducción a la genómica** del **módulo 7 sobre Biología computacional** va a cargo de **Victoria Ruiz, Uciel Chorostecki, Olfat Khannous y Mónica Cabrera**, junto con la coordinación de Sara Ibáñez.
+Des de el departamento de Life Sciences, la **sesión 10 de Introducción a la genómica** del **módulo 7 sobre Biología computacional** va a cargo de **Mónica Cabrera, Uciel Chorostecki, Olfat Khannous y Victoria Ruiz**, junto con la coordinación de Sara Ibáñez.
 
-:pushpin: Dia: Sábado 10 de abril 
+:pushpin: Día: Sábado 10 de abril 2021
 
 :pushpin: Horario: 9.30h a 14h 
 
-:pushpin: Lugar: Sesión online 
+:pushpin: Lugar: Sesión online (link)
 
-:pushpin: Idioma: Catalán/Castellano 
+:pushpin: Idioma: Catalán y Castellano 
 
 
 ### Links
 
  - [Slides](https://docs.google.com/presentation/d/1dWCz-LsHlLcXPBDuFqrAlLA2OV7omOvr897h5pc-91I/edit#slide=id.gc21052f137_1_835)
 
-### Schedule
+### Calendario
 
-| Time | |
+| Hora | |
 |---|---|
 | 9:30  | Presentación |
 | 9:45  | **Primera parte**: Conceptos clave sobre genómica con Mónica Cabrera | 
@@ -32,3 +32,5 @@ Des de el departamento de Life Sciences, la **sesión 10 de Introducción a la g
 | 12:30 | Actividad 3 *Bash aplicado al análisis de SARS-CoV2 * |
 | 13:30 | DEBATE: ¿Para què necesitamos los biólogos los superodenadores? :computer: |
 | 14:00 | FIN de la clase |
+
+
