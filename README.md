@@ -16,7 +16,7 @@ Des de el departamento de Life Sciences, la **sesión 10 de Introducción a la g
 
  - [Slides 2021](https://docs.google.com/presentation/d/1dWCz-LsHlLcXPBDuFqrAlLA2OV7omOvr897h5pc-91I/edit#slide=id.gc21052f137_1_835)
  - [Cuestionario previo] (https://forms.gle/Dy4twgA3rge4US4C7)
- - [Actividad de bash] (https://forms.gle/Dy4twgA3rge4US4C7)
+ - [Actividad de bash] (https://docs.google.com/document/d/1rZHSOzIOzc4z8k1YY74mqHBTSNg4CHGsscsF5FsyhGc/edit?usp=sharing)
 
 ### Calendario
 
