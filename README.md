@@ -7,7 +7,7 @@ Des de el departamento de Life Sciences, la **sesión 10 de Introducción a la g
 
 :pushpin: **Horario**: 9.30h a 14h 
 
-:pushpin: **Lugar**: Sesión online (link)
+:pushpin: **Lugar**: Sesión [online](https://rediris.zoom.us/j/81249488518)
 
 :pushpin: **Idioma**: Catalán y Castellano 
 
@@ -15,8 +15,8 @@ Des de el departamento de Life Sciences, la **sesión 10 de Introducción a la g
 ### Links
 
  - [Slides 2021](https://docs.google.com/presentation/d/1dWCz-LsHlLcXPBDuFqrAlLA2OV7omOvr897h5pc-91I/edit#slide=id.gc21052f137_1_835)
- - [Cuestionario previo] (https://forms.gle/Dy4twgA3rge4US4C7)
- - [Actividad de bash] (https://docs.google.com/document/d/1rZHSOzIOzc4z8k1YY74mqHBTSNg4CHGsscsF5FsyhGc/edit?usp=sharing)
+ - [Cuestionario previo](https://forms.gle/Dy4twgA3rge4US4C7)
+ - [Actividad de bash](https://docs.google.com/document/d/1rZHSOzIOzc4z8k1YY74mqHBTSNg4CHGsscsF5FsyhGc/edit?usp=sharing)
 
 ### Calendario
 
@@ -26,7 +26,7 @@ Des de el departamento de Life Sciences, la **sesión 10 de Introducción a la g
 | 9:45  | **Primera parte**: Conceptos clave sobre genómica con Mónica Cabrera | 
 | 10:15 | Actividad 1 *Traducción manual* |
 | 10:30 | **Segunda parte**: Del genoma al filoma con Olfat Khannous|
-| 11:00 | 10 min BREAK :coffee: :croissant:|
+| 11:00 | 20 min BREAK :coffee: :croissant:|
 | 11:15 | **Tercera parte**: Conceptos sobre el coronavirus con Victoria Ruiz |
 | 11:45 | Actividad 2 *Identificar el origen del coronavirus* |
 | 12:00 | 10 min BREAK :coffee: :croissant:|
