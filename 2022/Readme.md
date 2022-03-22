@@ -2,8 +2,11 @@
 Desde el departamento de Life Sciences, la **sesión de Introducción a la genómica** del **módulo 7 sobre Biología computacional** va a cargo de **Mónica Cabrera, Uciel Chorostecki, Olfat Khannous y Victoria Ruiz**.
 
 :pushpin: **Día**: Sábado 26 de Marzo 2022
+
 :pushpin: **Horario**: 9.30h a 14h 
+
 :pushpin: **Lugar**: UPC
+
 :pushpin: **Idioma**: Castellano 
 
 
