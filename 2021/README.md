@@ -37,9 +37,3 @@ Desde el departamento de Life Sciences, la **sesión 10 de Introducción a la ge
 | 13:00 | Actividad 3 *Bash aplicado al análisis de SARS-CoV2 * |
 | 13:30 | DEBATE: ¿Para què necesitamos los biólogos los superodenadores? :computer: |
 | 14:00 | FIN de la clase |
-
-### Ediciones anteriores
-
- - Sesión 2020
- - Sesión 2019
-
