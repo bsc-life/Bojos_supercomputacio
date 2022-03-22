@@ -12,7 +12,8 @@ En esta sesión en particular hablaremos de conceptos básicos de genómica y fi
 
 Puedes ver nuestras sesiones aquí:
 
-- Edición 2019
-- Edición 2020
-- Edición 2021
-- Edición 2022
+- [Edición 2019](2019)
+- [Edición 2020](2020)
+- [Edición 2021](2021)
+- [Edición 2022](2022)
+
