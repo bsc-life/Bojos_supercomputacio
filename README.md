@@ -9,3 +9,10 @@ Este curso surge con la idea de dar a conocer el entorno multidisciplinar que of
 El **objetivo principal** de este curso es el de fomentar las vocaciones científicas y promover el conocimiento y la educación de excelencia de los jóvenes de Cataluña.
 
 En esta sesión en particular hablaremos de conceptos básicos de genómica y filogénia, usaremos el procesador de comando Bash y aplicaremos lo aprendido para descubrir el origen del coronavirus.
+
+Puedes ver nuestras sesiones aquí:
+
+- Edición 2019
+- Edición 2020
+- Edición 2021
+- Edición 2022
