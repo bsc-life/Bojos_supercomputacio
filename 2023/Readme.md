@@ -1,5 +1,5 @@
 # Introducción a la genómica (Edición 2023)
-## P53: El guardían del genoma
+## P53: El guardián del genoma
 
 Desde el departamento de Life Sciences, la **sesión de Introducción a la genómica** del **módulo 7 sobre Biología computacional** va a cargo de **Saioa Manzano, Paula López y Mónica Cabrera**.
 
@@ -28,10 +28,10 @@ Desde el departamento de Life Sciences, la **sesión de Introducción a la genó
 | 10:30 | [Actividad 2]*Encontrar una mutación de p53 de manera manual en 1 paciente*  |
 | 10:40 | DEBATE: ¿Para què necesitamos los biólogos los superodenadores? :computer:|
 | 10:45 | 20 min BREAK :coffee: :croissant:|
-| 12:05 | **Segunda parte**: Conceptos sobre python **Paula López** |
-| 12:15 | Actividad 3 *Usando python para anlizar las mutaciones de p53 en 50 pacientes* |
-| 12:50 | 10 min BREAK :toilet:|
-| 13:00 | **Tercera parte**: Conceptos clave sobre filogénia |
+| 11:15 | **Segunda parte**: Conceptos sobre python **Paula López** |
+| 11:30 | Actividad 3 *Usando python para anlizar las mutaciones de p53 en 50 pacientes* |
+| 12:30 | 10 min BREAK :toilet:|
+| 12:40 | **Tercera parte**: Conceptos clave sobre filogénia |
 | 13:30 | Actividad 4 *Construyendo un árbol filogenético para ver las mutaciones de p53 * |
 | 13:45 | FEEDBACK Y DEBATE ABIERTO SOBRE EL FUTURO DE LA BIOINFORMÁTICA
 | 14:00 | FIN de la clase |
