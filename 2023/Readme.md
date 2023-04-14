@@ -16,7 +16,7 @@ Desde el departamento de Life Sciences, la **sesión de Introducción a la genó
 
  - [Slides 2023](https://docs.google.com/presentation/d/1QOUSF50j9qMJYjpulTNVUA00Wl7Yv1mNOtsgyOnEgYk/edit#slide=id.g1f9f391d3bb_0_186)
  - [Cuestionario previo](https://docs.google.com/forms/d/1p8SBwUI39ASgSTogNCGlrrE_oaautNOdeNjOf5xN1D0/edit?usp=drive_web)
- - [Actividad de python])
+ - Archivos necesarios para la actividad de python:
 
 ### Calendario
 
