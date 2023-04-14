@@ -20,7 +20,11 @@ Desde el departamento de Life Sciences, la **sesión de Introducción a la genó
     - *Actividad 2*
       - [Sequencia DNA normal](p53_normal.txt)
       - [Sequencia DNA tumoral](p53_tumoral.txt)
-
+    - *Actividad 3*
+      - [Script de python](BxC_2023_alumnes.ipynb)
+      - [Información pacientes](info_pacientes.csv)
+      - [Secuencias pacientes](seq_pacientes.fasta)
+      
 ### Calendario
 
 | Hora | |
