@@ -1,4 +1,6 @@
-# Introducción a la genómica (Edición 2023) - P53: El guardían del genoma
+# Introducción a la genómica (Edición 2023)
+## P53: El guardían del genoma
+
 Desde el departamento de Life Sciences, la **sesión de Introducción a la genómica** del **módulo 7 sobre Biología computacional** va a cargo de **Saioa Manzano, Paula López y Mónica Cabrera**.
 
 :pushpin: **Día**: Sábado 15 de Abril 2023
