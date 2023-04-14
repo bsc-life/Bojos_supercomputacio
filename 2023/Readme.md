@@ -30,7 +30,7 @@ Desde el departamento de Life Sciences, la **sesión de Introducción a la genó
 | 10:45 | 20 min BREAK :coffee: :croissant:|
 | 12:05 | **Segunda parte**: Conceptos sobre python **Paula López** |
 | 12:15 | Actividad 3 *Usando python para anlizar las mutaciones de p53 en 50 pacientes* |
-| 12:50 | 10 min BREAK :coffee: :croissant:|
+| 12:50 | 10 min BREAK :toilet:|
 | 13:00 | **Tercera parte**: Conceptos clave sobre filogénia |
 | 13:30 | Actividad 4 *Construyendo un árbol filogenético para ver las mutaciones de p53 * |
 | 13:45 | FEEDBACK Y DEBATE ABIERTO SOBRE EL FUTURO DE LA BIOINFORMÁTICA
