@@ -75,7 +75,7 @@ iqtree2 -s outputs/brca.trim --prefix outputs/brca_tree -m LG+G4 -B 1000
 Esperarem uns minuts fins que es trobe l'arbre més ajustat a les dades i podrem visualitzar-lo emprant l'eina online [`iToL`](https://itol.embl.de/). Per a pujar l'arbre a `iToL` farem:
 
 1. click al botó `Upload`:
-<br>
+
 ![Pas 1](figures/pas_1.png)
 
 2. copiarem l'arxiu de l'arbre de la terminal, per a mostrar-lo en la terminal emprarem la comanda `cat` que mostra el contingut d'un fitxer de text:
@@ -85,21 +85,22 @@ cat outputs/brca_tree.treefile
 Copiarem fent botó dret i copiar.
 
 3. Apegarem el text copiat al requadre `Tree text:` i farem click a `Upload`:
-<br>
+
 ![Pas 3](figures/pas_3.png)
 
 4. Apareixerà una finestra com aquesta:
-<br>
+
 ![Pas 4](figures/pas_4.png)
 
 Com veieu, apareix l'arbre i un panell de control. Per a mostrar els valors de bootstrap que hem calculat anirem a la pestanya `Advanced` del panell de control, i activarem l'opció `Display` de `bootstraps / metadata`.
-<br>
+
 ![Pas 4.2](figures/pas_4_2.png)
 
 5. Abans d'interpretar l'arbre l'arrelarem. Per a no suposar cap arrel, el que farem és recórrer a un mètode en què no decidim nosaltres l'arrel. Aquest mètode s'anomena midpoint, i deu el seu nom a que posa l'arrel a la branca que està enmig del camí (recorrent les branques) més llarg que es pot fer a l'arbre. <br> Per a fer-ho amb iToL anirem a la pestanya `Advanced` del panell de control i baix del tot (fent scroll) veurem l'opció `Root the tree midpoint`, prem aquesta opció i mira com canvia l'arbre.
-<br>
+
 ![Pas 5](figures/pas_5.png)
-<br>
+
+
 Amb aquesta opció començarem a interpretar l'arbre.
 
 ### Qüestions sobre la filogènia
