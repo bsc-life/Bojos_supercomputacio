@@ -1,8 +1,8 @@
-# Introducción a la genómica (Edición 2023)
+# Introducción a la genómica (Edición 2024)
 
 Desde el departamento de Life Sciences, la **sesión de Introducción a la genómica** del **módulo 7 sobre Biología computacional** va a cargo de **Saioa Manzano, Paula López y Mónica Cabrera**.
 
-:pushpin: **Día**: Sábado 6 de Abril 2023
+:pushpin: **Día**: Sábado 6 de Abril 2024
 
 :pushpin: **Horario**: 9.30h a 14h 
 
