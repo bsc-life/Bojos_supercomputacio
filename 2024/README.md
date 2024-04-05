@@ -13,7 +13,7 @@ Desde el departamento de Life Sciences, la **sesión de Introducción a la genó
 
 ### Links para la sesión
 
- - [Slides 2024](link_here)
+ - [Slides 2024](https://docs.google.com/presentation/d/1dg3wEWRiQvlSZmP7US1fJ2USq7eSCWA8Fwy5gJrAoSA/edit?usp=sharing)
  - Archivos necesarios para las actividades:
     - *Actividad 1*: Diagnóstico con Inteligencia Artificial
       - [Jupyter notebook](Actividad1_Diagnostico.ipynb)
