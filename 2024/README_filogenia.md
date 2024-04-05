@@ -6,7 +6,7 @@ Totes aquestes qüestions les anirem responent amb els resultats dels passos que
 
 ## Carregar mòduls a MN4 i anar a la carpeta del projecte
 ```bash
-module load tree
+module load mafft/7.525 trimal/1.4.1 iq-tree/2.3.1 alan/2.1.1
 cd bojos_genomica/practica_filogenia
 ```
 
