@@ -16,4 +16,6 @@ Puedes ver nuestras sesiones aquí:
 - [Edición 2020](2020)
 - [Edición 2021](2021)
 - [Edición 2022](2022)
+- [Edición 2023](2023)
+- [Edición 2024](2024)
 
