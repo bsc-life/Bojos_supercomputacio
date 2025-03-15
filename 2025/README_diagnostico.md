@@ -23,7 +23,7 @@ cd bojos_genomica
 4. Ejecutamos un job que nos permitirá conectarnos a los recursos computacionales del MN5:
 
 ```console
-sbatch --nodelist=<nodo> bojos_genomica_server.sh
+sbatch bojos_genomica_server.sh
 ```
 
 5. Creamos un túnel para conectar nuestro usuario al nodo donde está nuestro job:
