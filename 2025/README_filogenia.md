@@ -42,7 +42,7 @@ Per a alinear les seqüències de l'arxiu `data/brca.fa` emprarem la comanda:
 muscle5 -align data/brca.fa -output outputs/brca.aln
 ```
 
-Pots veure l'alineament fent servir `alan`
+Pots veure l'alineament fent servir `alan`, per a sortir d'`alan` prem la lletra `q`:
 ```bash
 alan outputs/brca.aln
 ```
