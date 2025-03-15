@@ -6,8 +6,14 @@ Totes aquestes qüestions les anirem responent amb els resultats dels passos que
 
 ## Carregar mòduls a MN4 i anar a la carpeta del projecte
 ```bash
-module load mafft/7.525 trimal/1.4.1 iq-tree/2.3.1 alan/2.1.1
-cd bojos_genomica/practica_filogenia
+export PATH="$PATH:/home/nct/nct00003/bin"
+```
+
+Crearem una carpeta de treball al vostre directori:
+```bash
+cd el/meu/directori
+cp -r /gpfs/home/nct/nct00003/filogenetica .
+cd filogenetica
 ```
 
 També crearem una carpeta per als outputs:
@@ -16,7 +22,7 @@ mkdir outputs
 ```
 
 ## Alineament
-Per a alinear les seqüències emprarem el software `mafft`, que implementa una sèrie d'algorismes que permeten alinear seqüències de gens o proteïnes. En aquest cas alinearem les seqüències de proteïnes que estan a l'arxiu `data/brca.fa`.
+Per a alinear les seqüències emprarem el software `muscle`, que implementa una sèrie d'algorismes que permeten alinear seqüències de gens o proteïnes. En aquest cas alinearem les seqüències de proteïnes que estan a l'arxiu `data/brca.fa`.
 
 Pots fer una ullada al format de l'arxiu, s'anomena FASTA. Es tracta d'un format que identifica el nom de les seqüències amb el símbol `>` seguit del nom de la seqüència, en la línia següent, o fins a trobar una nova línia que comence amb un `>`, es trobarà la seqüència, e.g.:
 ```
@@ -31,9 +37,9 @@ head data/brca.fa
 
 Com pots observar en aquest fitxer les seqüències les hem anomenades amb el nom de l'espècie `CEEL` i el nom del gen `BRCA1` separats per un underscore.
 
-Per a alinear les seqüències de l'arxiu `data/brca_seqs.fa` emprarem la comanda:
+Per a alinear les seqüències de l'arxiu `data/brca.fa` emprarem la comanda:
 ```
-mafft data/brca.fa > outputs/brca.aln
+mucle5 -align data/brca.fa -output brca.aln
 ```
 
 Pots veure l'alineament fent servir `alan`
