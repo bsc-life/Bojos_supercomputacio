@@ -39,7 +39,7 @@ Com pots observar en aquest fitxer les seqüències les hem anomenades amb el no
 
 Per a alinear les seqüències de l'arxiu `data/brca.fa` emprarem la comanda:
 ```
-mucle5 -align data/brca.fa -output brca.aln
+mucle5 -align data/brca.fa -output outputs/brca.aln
 ```
 
 Pots veure l'alineament fent servir `alan`
