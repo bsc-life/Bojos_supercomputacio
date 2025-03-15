@@ -26,6 +26,12 @@ cd bojos_genomica
 sbatch bojos_genomica_server.sh
 ```
 
+Anotamos el nodo al que estamos conectados (en la tabla, columna NODELIST):
+
+```console
+squeue
+```
+
 5. Creamos un túnel para conectar nuestro usuario al nodo donde está nuestro job:
 
 ```console
