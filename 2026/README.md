@@ -1,4 +1,4 @@
-# Introducción a la genómica (Edición 2025)
+# Introducción a la genómica (Edición 2026)
 
 Desde el departamento de Life Sciences, la **sesión de Introducción a la genómica** del **módulo 7 sobre Biología computacional** va a cargo de **Anna Costa Garrido y Laura Figueiredo Tor**.
 
@@ -13,7 +13,7 @@ Desde el departamento de Life Sciences, la **sesión de Introducción a la genó
 
 ### Links para la sesión
 
- - [Slides 2026](https://docs.google.com/presentation/d/1JaDQ-Ez595i3Uj8nXvTBe9X7YJkpj068ak1Aliab0u0/edit?usp=sharing]
+ - [Slides 2026](https://docs.google.com/presentation/d/1JaDQ-Ez595i3Uj8nXvTBe9X7YJkpj068ak1Aliab0u0/edit?usp=sharing)
  - Archivos necesarios para las actividades:
     - *Ejercicio 1*: Dogma Central de la Biología Molecular
       - [Jupyter notebook](Bojos2026_Exercici1_DogmaCentralBio.ipynb)
