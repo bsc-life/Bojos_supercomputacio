@@ -26,21 +26,26 @@ Desde el departamento de Life Sciences, la **sesión de Introducción a la genó
     - *Ejercicio 4*: Aplicaciones biológicas de Machine Learning
       - [Jupyter notebook](Bojos2026_Exercici4_ML.ipynb)    
       - [Niveles de expresión](data/breast_cancer_data.csv)
-      - [Sequencia DNA tumoral](data/breast_cancer_classification.csv)
+      - [Valores diagnóstico](data/breast_cancer_classification.csv)
+      - [Datos clínicos adicionales](data/breast_cancer_Phenotypes.txt)
 
       
 ### Calendario
 
 | Hora  |                                                                            |
 |-------|----------------------------------------------------------------------------|
-| 9:30  | Presentación                                                               |
-| 9:45  | **Primera parte**: Conceptos clave sobre genómica **Guillermo y Moisés**   |
-| 10:15 | DEBATE: ¿Para qué necesitamos los biólogos los superodenadores? :computer: |
-| 10:30 | 20 min BREAK :coffee: :croissant:                                          |
-| 10:50 | **Segunda parte**: Conceptos sobre python **Guillermo Prol**               |
-| 11:20 | Actividad 1: *Diagnóstico de cáncer con IA*                                |
-| 12:30 | 10 min BREAK :toilet:                                                      |
-| 12:40 | **Tercera parte**: Conceptos clave sobre filogénia **Moisès Bernabeu**     |
-| 13:00 | Actividad 2: *Origen de un gen importante para el desarrollo de cáncer*    |
-| 13:50 | RESUMEN Y DEBATE SOBRE EL FUTURO DE LA BIOLOGÍA COMPUTACIONAL              |
+| 9:30  | Presentación y cuestionario inicial                                        |          
+| 9:50  | **1.**: Conceptos Biología Molecular **Laura**                             |
+| 10:05 | *Ejercicio 1: Dogma Central de la Biología Molecular*                      |
+| 10:20  | **2.**: Bioinformática y Biología computacional. HPCs **Laura y Anna**     | 
+| 10:30 | 10 min BREAK :coffee:                                                      |
+| 10:40 | **3.** Variación genética, SNPs                                            |
+| 11:15  | *Ejercicio 2: SNPs y riesgo de enfermedad*                                 |
+| 12:00 | 10 min BREAK :coffee:                                                      |
+| 12:10 | **4.** Expresión génica, DEG                                               |
+| 12:25  | *Ejercicio 3: Identificar genes diferencialmente expresados (DEGs)*        |
+| 12:50 | 10 min BREAK :coffee:                                                      |
+| 13:00 | **5.** Conceptos y de Machine Learning (ML)                                |
+| 13:25  | *Ejercicio 4: Aplicaciones biológicas de Machine Learning*                 |
+| 13:50 | Conclusión y Kahoot                                                        |
 | 14:00 | FIN de la clase                                                            |
