@@ -37,15 +37,15 @@ Desde el departamento de Life Sciences, la **sesión de Introducción a la genó
 | 9:30  | Presentación y cuestionario inicial                                        |          
 | 9:50  | **1.**: Conceptos Biología Molecular **Laura**                             |
 | 10:05 | *Ejercicio 1: Dogma Central de la Biología Molecular*                      |
-| 10:20  | **2.**: Bioinformática y Biología computacional. HPCs **Laura y Anna**     | 
+| 10:20 | **2.**: Bioinformática y Biología computacional. HPCs **Anna y Laura**     | 
 | 10:30 | 10 min BREAK :coffee:                                                      |
-| 10:40 | **3.** Variación genética, SNPs                                            |
-| 11:15  | *Ejercicio 2: SNPs y riesgo de enfermedad*                                 |
+| 10:40 | **3.** Variación genética, SNPs **Anna**                                   |
+| 11:15 | *Ejercicio 2: SNPs y riesgo de enfermedad*                                 |
 | 12:00 | 10 min BREAK :coffee:                                                      |
-| 12:10 | **4.** Expresión génica, DEG                                               |
-| 12:25  | *Ejercicio 3: Identificar genes diferencialmente expresados (DEGs)*        |
+| 12:10 | **4.** Expresión génica, DEG **Anna**                                      |
+| 12:25 | *Ejercicio 3: Identificar genes diferencialmente expresados (DEGs)*        |
 | 12:50 | 10 min BREAK :coffee:                                                      |
-| 13:00 | **5.** Conceptos y de Machine Learning (ML)                                |
-| 13:25  | *Ejercicio 4: Aplicaciones biológicas de Machine Learning*                 |
-| 13:50 | Conclusión y Kahoot                                                        |
+| 13:00 | **5.** Conceptos y de Machine Learning (ML) **Laura**                      |  
+| 13:25 | *Ejercicio 4: Aplicaciones biológicas de Machine Learning*                 |
+| 13:50 | Conclusión y Kahoot **Anna y Laura**                                       |
 | 14:00 | FIN de la clase                                                            |
