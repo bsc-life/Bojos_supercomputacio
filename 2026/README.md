@@ -35,9 +35,9 @@ Desde el departamento de Life Sciences, la **sesión de Introducción a la genó
 | Hora  |                                                                            |
 |-------|----------------------------------------------------------------------------|
 | 9:30  | Presentación y cuestionario inicial                                        |          
-| 9:50  | **1.**: Conceptos Biología Molecular **Laura**                             |
+| 9:45  | **1.** Conceptos Biología Molecular **Laura**                             |
 | 10:05 | *Ejercicio 1: Dogma Central de la Biología Molecular*                      |
-| 10:20 | **2.**: Bioinformática y Biología computacional. HPCs **Anna y Laura**     | 
+| 10:20 | **2.** Bioinformática y Biología computacional. HPCs **Anna y Laura**     | 
 | 10:30 | 10 min BREAK :coffee:                                                      |
 | 10:40 | **3.** Variación genética, SNPs **Anna**                                   |
 | 11:15 | *Ejercicio 2: SNPs y riesgo de enfermedad*                                 |
