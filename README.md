@@ -19,3 +19,4 @@ Puedes ver nuestras sesiones aquí:
 - [Edición 2023](2023)
 - [Edición 2024](2024)
 - [Edición 2025](2025)
+- [Edición 2026](2026)
